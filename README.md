@@ -7,6 +7,7 @@ Welcome to the **Food Website**! This project is a modern, responsive website fo
 - 🍕 **Beautiful UI** – Responsive and modern design.
 - 🍽️ **Menu Section** – Displays various food items with descriptions and prices.
 - 👥 **Team Section** – Meet the people behind the scenes.
+- 🛒 Order Section – Allows users to place their food orders easily.
 - 📞 **Contact & Footer** – Contact information and social media links.
 - 📱 **Fully Responsive** – Works on all devices (mobile, tablet, desktop).
 
